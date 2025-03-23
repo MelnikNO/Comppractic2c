@@ -9,15 +9,23 @@
 Исследуйте функционал двух способов создания простейшего http-сервера.
 Перепешите приложения так, чтобы приложение отправляло  ответ на запрос по localhost:port (или с по доменному имени replit.com) ваш логин в системе moodle и текущую дату и время в текущей локали (СПБ, МСК). Например, на запрос: https://kp-28-03-my-server-2.zhukov.repl.co/ Ответ: nzhukov, 12.03.25 16:40:27
 Это надо сделать в обоих бордах-решениях (с фреймворком и без него). Можно использовать другой MIME-тип и формат ответа (например, json, html или что-то другое).
-Дополнительное необязательное задание: исследовать и разработать аналогичный функционал пункта 2 для какого-либо серверного фреймворка на Node.js или другом языке:
+Дополнительное необязательное задание (НЕ ВЫПОЛНЕННО): исследовать и разработать аналогичный функционал пункта 2 для какого-либо серверного фреймворка на Node.js или другом языке:
 PHP*, JS (Node)*, Go*, Ruby*(Ruby on Rails), Kotlin, Java (Spring).
-
-**Комментарий:** 
 
 **Результат:**
 
+**mainnoframework.py**
 
-![code1](https://github.com/MelnikNO/programming-2c-2sem/blob/main/Screen/LR2/answer.png)
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/1conmain.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/1hostmain.png)
+
+**mainframeworkflask.py**
+
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/12con.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/12host.png)
 
 ---
 
@@ -51,10 +59,13 @@ PHP*, JS (Node)*, Go*, Ruby*(Ruby on Rails), Kotlin, Java (Spring).
 
 :small_blue_diamond: После успешной обработки и сохранения данных отобразите пользователю сообщение о том, что данные были успешно сохранены.
 
-**Комментарий:** 
-
 **Результат:**
-![code1](https://github.com/MelnikNO/programming-2c-2sem/blob/main/Screen/LR2/answer.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/21app.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/21appv.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/21appans.png)
 
 ---
 
@@ -64,7 +75,10 @@ PHP*, JS (Node)*, Go*, Ruby*(Ruby on Rails), Kotlin, Java (Spring).
 **Задачи:**
 Аналогичны описанному в части 2.1.
 
-**Комментарий:** 
-
 **Результат:**
-![code1](https://github.com/MelnikNO/programming-2c-2sem/blob/main/Screen/LR2/answer.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/22appcon.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/22appv.png)
+
+![code1](https://github.com/MelnikNO/Comppractic2c/blob/main/Screen/ЛР5/22appans.png)
